@@ -1,0 +1,154 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "name": "Sample DJ Mix Library",
+    "description": "Example song list for DJ Mixer application - includes various genres with harmonic key information",
+    "dateCreated": "2026-04-20T00:00:00.000Z"
+  },
+  "tracks": [
+    {
+      "id": "sample-1",
+      "title": "Electric Dreams",
+      "artist": "NEON PULSE",
+      "bpm": 124,
+      "key": "8B",
+      "length": "04:32",
+      "lengthSeconds": 272,
+      "rating": 5,
+      "genre": "Synthwave",
+      "color": "#00d4ff"
+    },
+    {
+      "id": "sample-2", 
+      "title": "Midnight Runner",
+      "artist": "CYBER NIGHTS",
+      "bpm": 126,
+      "key": "9B",
+      "lengthSeconds": 298,
+      "length": "04:58",
+      "rating": 4,
+      "genre": "Techno",
+      "color": "#ff44aa"
+    },
+    {
+      "id": "sample-3",
+      "title": "City Lights",
+      "artist": "URBAN ECHO",
+      "bpm": 120,
+      "key": "4A",
+      "length": "03:45",
+      "lengthSeconds": 225,
+      "rating": 4,
+      "genre": "House",
+      "color": "#00ff88"
+    },
+    {
+      "id": "sample-4",
+      "title": "Deep Space",
+      "artist": "STELLAR DRIFT",  
+      "bpm": 128,
+      "key": "7B",
+      "length": "05:21",
+      "lengthSeconds": 321,
+      "rating": 5,
+      "genre": "Progressive House",
+      "color": "#ffaa00"
+    },
+    {
+      "id": "sample-5",
+      "title": "Analog Soul",
+      "artist": "VINTAGE PULSE",
+      "bpm": 110,
+      "key": "2A", 
+      "length": "03:18",
+      "lengthSeconds": 198,
+      "rating": 3,
+      "genre": "Downtempo",
+      "color": "#ff3366"
+    },
+    {
+      "id": "sample-6",
+      "title": "Quantum Beat",
+      "artist": "FUTURE BASS",
+      "bpm": 140,
+      "key": "11B",
+      "length": "04:07",
+      "lengthSeconds": 247,
+      "rating": 5,
+      "genre": "Future Bass",
+      "color": "#aa66ff"
+    },
+    {
+      "id": "sample-7",
+      "title": "Neon Highway", 
+      "artist": "RETROWAVE",
+      "bpm": 118,
+      "key": "5A",
+      "length": "06:15",
+      "lengthSeconds": 375,
+      "rating": 4,
+      "genre": "Retrowave",
+      "color": "#44ffaa"
+    },
+    {
+      "id": "sample-8",
+      "title": "Digital Dawn",
+      "artist": "CYBER PULSE", 
+      "bpm": 132,
+      "key": "10B",
+      "length": "03:52",
+      "lengthSeconds": 232,
+      "rating": 4,
+      "genre": "Electro",
+      "color": "#ffcc00"
+    },
+    {
+      "id": "sample-9",
+      "title": "Bass Drop Zone",
+      "artist": "HEAVY SYNTH",
+      "bpm": 150,
+      "key": "6A",
+      "length": "02:58", 
+      "lengthSeconds": 178,
+      "rating": 3,
+      "genre": "Dubstep",
+      "color": "#6699ff"
+    },
+    {
+      "id": "sample-10",
+      "title": "Ambient Flow",
+      "artist": "CHILL WAVE",
+      "bpm": 95,
+      "key": "1B",
+      "length": "07:23",
+      "lengthSeconds": 443,
+      "rating": 5,
+      "genre": "Ambient",
+      "color": "#ff6600"
+    },
+    {
+      "id": "sample-11",
+      "title": "Techno Revolution",
+      "artist": "INDUSTRIAL CORE",
+      "bpm": 145,
+      "key": "12A",
+      "length": "05:44",
+      "lengthSeconds": 344,
+      "rating": 4,
+      "genre": "Hard Techno", 
+      "color": "#ff00ff"
+    },
+    {
+      "id": "sample-12",
+      "title": "Melodic Horizon",
+      "artist": "PROGRESSIVE WAVE",
+      "bpm": 135,
+      "key": "3B",
+      "length": "08:12",
+      "lengthSeconds": 492,
+      "rating": 5,
+      "genre": "Progressive Trance",
+      "color": "#00ffff"
+    }
+  ]
+}
